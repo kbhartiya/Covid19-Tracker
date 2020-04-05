@@ -9,7 +9,7 @@ The Dash App is deployed on [heroku](https://wwww.heroku.com/) and the link fo t
 <div align="center"><img src="/assets/mobileVersion0[1].gif" width="450px" height="1000px" /></div>
 
 ## Desktop Version
-<div align="center"><img src="/assets/desktopVersion0[1].gif" /></div>
+<div align="center"><img src="/assets/desktopVersion0[1].png" /></div>
 
 ## Dependencies
 ----------------
