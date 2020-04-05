@@ -39,5 +39,5 @@ python app.py
 ```
 
 ## Data Source
-..* [covid19india.org Tracker data](https://api.covid19india.org/)
-..* [CSSEGI Data](https://github.com/CSSEGISandData/COVID-19)
+* [covid19india.org Tracker data](https://api.covid19india.org/)
+* [CSSEGI Data](https://github.com/CSSEGISandData/COVID-19)
