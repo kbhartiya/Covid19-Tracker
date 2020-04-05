@@ -6,5 +6,5 @@ The Dash App is deployed on [heroku](https://wwww.heroku.com/) and the link fo t
 
 ## Mobile Version
 
-<div align="center"><img src="/assets/mobileVersion0.gif" /></div>
+<div align="center"><img src="/assets/mobileVersion0[1].gif" width="450px" height="1000px" /></div>
 
